@@ -34,7 +34,7 @@ ss://YWVzLTI1Ni1nY206aXN4Lnl0LTg4NDQ4MjkxQDIwNi4xODkuMzkuNDM6MTU4NDg=
 订阅链接
 
 ```
-
+https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
 ```
 
 ```http
