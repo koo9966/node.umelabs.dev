@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2020-10-31T11:02:10.222Z</updated>
+  <updated>2020-11-01T13:02:06.287Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020.11.01</title>
+    <link href="https://node.umelabs.dev/2020/ckgz4kzk400002937hick6ha2/"/>
+    <id>https://node.umelabs.dev/2020/ckgz4kzk400002937hick6ha2/</id>
+    <published>2020-10-31T16:00:00.000Z</published>
+    <updated>2020-11-01T13:02:06.287Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;关于隐私和安全可以观看我最新发布的视频。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果觉得速度慢，可以尝试换一个节点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;还有一点说明，以后优先选择AEAD Ciphers，也就是aes-256-gcm，chacha-ietf-poly305，aes-192-gcm，aes-128-gcm加密方法节点&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;自建节点的更换或停止使用香港节点！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;blockquote style=&quot;border-left:0.4em solid red&quot;&gt;重要提示！！！⚠️⚠️⚠️不要使用机场服务，最近一个机场服务，宣称不会为用户保密，会保存日志一个月。还有再次声明最好停止使用免费节点！！！自建！自建！自建！&lt;/blockquote&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2020.10.31</title>
@@ -616,39 +649,6 @@
     <id>https://node.umelabs.dev/2020/ckg7xxjen0000xy3778uqcf60/</id>
     <published>2020-10-12T16:00:00.000Z</published>
     <updated>2020-10-13T12:26:19.159Z</updated>
-    
-    <summary type="html">
-    
-      &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;关于隐私和安全可以观看我最新发布的视频。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如果觉得速度慢，可以尝试换一个节点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;还有一点说明，以后优先选择AEAD Ciphers，也就是aes-256-gcm，chacha-ietf-poly305，aes-192-gcm，aes-128-gcm加密方法节点&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;自建节点的更换或停止使用香港节点！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;blockquote style=&quot;border-left:0.4em solid red&quot;&gt;重要提示！！！⚠️⚠️⚠️不要使用机场服务，最近一个机场服务，宣称不会为用户保密，会保存日志一个月。还有再次声明最好停止使用免费节点！！！自建！自建！自建！&lt;/blockquote&gt;
-
-&lt;/li&gt;
-&lt;/ol&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020.10.12</title>
-    <link href="https://node.umelabs.dev/2020/ckg6lh12h0000i037chgw2sj7/"/>
-    <id>https://node.umelabs.dev/2020/ckg6lh12h0000i037chgw2sj7/</id>
-    <published>2020-10-11T16:00:00.000Z</published>
-    <updated>2020-10-12T13:49:30.748Z</updated>
     
     <summary type="html">
     
